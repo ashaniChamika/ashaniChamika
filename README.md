@@ -127,15 +127,6 @@ Hi There 👋 I'm Ashani
 </div>
 
 
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ashaniChamika&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
-
-</div>
 
 
 ---
