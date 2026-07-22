@@ -133,11 +133,11 @@ Hi There 👋 I'm Ashani
 
 # 🐍 Contribution Snake
 
-<div align="center">
+## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/ashaniChamika/ashaniChamika/output/github-contribution-grid-snake.svg" />
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashaniChamika/ashaniChamika/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
