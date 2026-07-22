@@ -126,17 +126,6 @@ Hi There 👋 I'm Ashani
 
 </div>
 
-
-
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashaniChamika/ashaniChamika/output/github-contribution-grid-snake.svg" />
-</p>
-
 ---
 
 # 👀 Profile Visitors
