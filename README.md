@@ -126,7 +126,7 @@ Hi There 👋 I'm Ashani
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashaniChamika&theme=react-dark&hide_border=true&area=true&custom_title=Ashani%20Chamika's%20Contribution%20Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashaniChamika&bg_color=0D1117&color=38BDF8&line=2563EB&point=38BDF8&area_color=2563EB&area=true&hide_border=true&custom_title=Ashani%20Chamika's%20Contribution%20Activity"/>
 
 </div>
 
