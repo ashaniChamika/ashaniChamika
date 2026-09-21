@@ -60,6 +60,10 @@ Hi There 👋 I'm Ashani
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://ashanichamika.github.io/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-6558F5?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -363,9 +367,19 @@ I am continuously improving my knowledge through:
 
 # 🌐 Portfolio
 
+# 🌐 Portfolio
+
 <div align="center">
 
-🚧 Portfolio Website Coming Soon...
+<a href="https://ashanichamika.github.io/" target="_blank">
+<img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-6558F5?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://ashanichamika.github.io/" target="_blank">
+<strong>✨ View My Professional Portfolio →</strong>
+</a>
 
 </div>
 
