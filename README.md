@@ -284,6 +284,7 @@ A database-driven application created to manage student season ticket records wi
 🔹 Improving Python programming skills  
 🔹 Exploring modern programming concepts  
 🔹 Developing problem-solving abilities  
+🔹 AI Literacy
 
 
 ---
