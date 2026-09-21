@@ -365,7 +365,6 @@ I am continuously improving my knowledge through:
 
 ---
 
-# 🌐 Portfolio
 
 # 🌐 Portfolio
 
